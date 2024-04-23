@@ -1,24 +1,9 @@
-# til-template
+**✨ WELCOME TO MY TIL ✨**
 
-## 오늘 내가 배운 것들(Today I Learned)
+<br/>
 
-### [4월 첫째주, 1주차] : html, css
+## TIL List
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
+### [4월 4째주, 3주차] : 커뮤니티 웹 구현 완료
 
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
-
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
-
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
-
-
-### [n월 n째주, n주차] : 간략 주제 작성 
-
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+[24.04.23] 자바스크립트 모듈 시스템과 문법 - [링크](https://github.com/100-hours-a-week/jamie-til/April/2024-04-23.md)
