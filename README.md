@@ -33,3 +33,5 @@
 -   24.04.24 [BE] [MVC 패턴과 Express 응답 메소드](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-24.md)
 
 -   24.04.25 [BE] [Java 2차원 배열 정렬, JS 함수와 화살표 함수](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-25.md)
+
+-   24.04.26 [CS] [자격 증명 Header`Access-Control-..`](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-26.md)
