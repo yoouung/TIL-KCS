@@ -35,3 +35,11 @@
 -   24.04.25 [BE] [Java 2차원 배열 정렬, JS 함수와 화살표 함수](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-25.md)
 
 -   24.04.26 [CS] [자격 증명 Header`Access-Control-..`](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-26.md)
+
+### [4월 5째주, 5주차] : JS 응용
+
+-   24.04.29 [WEB]
+
+-   24.04.30 [BE] [서버에서 이미지 처리하기](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-30.md)
+
+-   24.05.01 [BE] [서버에서 formData 처리하기](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-01.md)
