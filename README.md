@@ -45,3 +45,5 @@
 -   24.05.01 [BE] [서버에서 formData 처리하기](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-01.md)
 
 -   24.05.02 [FE] [리액트 기초 개념](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-02.md)
+
+-   24.05.03 [WEB] [서버 CJS 전환 및 fetch 함수 분리](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-03.md)
