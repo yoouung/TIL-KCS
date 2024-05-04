@@ -47,3 +47,5 @@
 -   24.05.02 [FE] [리액트 기초 개념](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-02.md)
 
 -   24.05.03 [WEB] [서버 CJS 전환 및 fetch 함수 분리](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-03.md)
+
+-   24.05.04 [WEB] [서버와 클라이언트 연결 (1)](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-04.md)
