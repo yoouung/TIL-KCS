@@ -26,7 +26,7 @@
 - 24.04.18
 - 24.04.19
 
-### [4월 4째주, 4주차] : Git, JS 응용
+### [4월 4째주, 4주차] : JS 응용
 
 - 24.04.23 [JS] [자바스크립트 모듈 시스템과 문법](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-23.md)
 
@@ -36,7 +36,7 @@
 
 - 24.04.26 [WEB] [자격 증명 Header`Access-Control-..`](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-26.md)
 
-### [4월 5째주, 5주차] : JS 응용
+### [4월 5째주, 5주차] : JS 응용, React 기초
 
 - 24.04.29 [WEB]
 
@@ -50,4 +50,8 @@
 
 - 24.05.04 [WEB] [서버와 클라이언트 연결 (1)](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-04.md)
 
+### [5월 2째주, 6주차] : React, Java 기초
+
 - 24.05.13 [WEB] [Preflight와 Single Request](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-13.md)
+
+- 24.05.16 [JAVA] [JAVA의 개발 환경과 동작 방식](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-16.md)
