@@ -4,9 +4,11 @@
 
 ## Today I Leanred List
 
-### [5월 2째주, 6주차] : React, Java 기초
+### [5월 4째주, 8주차] : Java 기초
 
 - 24.05.20 [JAVA] [접근 제한자 (Access Modifier)](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-20.md)
+
+### [5월 3째주, 7주차] : React, Java 기초
 
 - 24.05.18 [JAVA] [오버로딩과 오버라이딩](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-18.md)
 
@@ -15,6 +17,8 @@
 - 24.05.16 [JAVA] [JAVA의 개발 환경과 동작 방식](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-16.md)
 
 - 24.05.13 [WEB] [Preflight와 Single Request](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-13.md)
+
+### [5월 2째주, 6주차] : React, Java 기초
 
 ### [4월 5째주, 5주차] : JS 응용, React 기초
 
