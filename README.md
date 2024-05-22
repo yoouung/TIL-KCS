@@ -12,6 +12,8 @@
 
 ### [5월 3째주, 7주차] : React, Java 기초
 
+- 24.05.19 [JAVA] [OOP와 SOLID 원칙](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-19.md)
+
 - 24.05.18 [JAVA] [오버로딩과 오버라이딩](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-18.md)
 
 - 24.05.17 [JAVA] [클래스 초기화와 인스턴스 초기화](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-17.md)
