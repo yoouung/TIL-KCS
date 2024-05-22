@@ -6,6 +6,8 @@
 
 ### [5월 4째주, 8주차] : Java 기초
 
+- 24.05.21 [JAVA] [에러와 예외클래스](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-21.md)
+
 - 24.05.20 [JAVA] [접근 제한자 (Access Modifier)](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-20.md)
 
 ### [5월 3째주, 7주차] : React, Java 기초
