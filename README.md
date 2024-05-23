@@ -42,13 +42,13 @@
 
 ### [4월 4째주, 4주차] : JS 응용
 
-- 24.04.26 [WEB] [자격 증명 Header`Access-Control-..`](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-26.md)
+- 24.04.26 [WEB] [자격 증명 Header](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-26.md)
 
-- 24.04.25 [JS] [Java 2차원 배열 정렬, JS 함수와 화살표 함수](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-25.md)
+- 24.04.25 [JS] [화살표 함수](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-25.md)
 
 - 24.04.24 [WEB] [MVC 패턴과 서버의 응답 메소드](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-24.md)
 
-- 24.04.23 [JS] [자바스크립트 모듈 시스템과 문법](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-23.md)
+- 24.04.23 [JS] [CommonJS와 ESM](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-23.md)
 
 ### [4월 3째주, 3주차] : JS 기초, 웹 응용
 
