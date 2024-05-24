@@ -6,6 +6,8 @@
 
 ### [5월 4째주, 8주차] : Java 기초
 
+- 24.05.24 [JAVA] [Null](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-24.md)
+
 - 24.05.22 [JAVA] [인터페이스](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-22.md)
 
 - 24.05.21 [JAVA] [에러와 예외클래스](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-21.md)
