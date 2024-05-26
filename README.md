@@ -71,6 +71,8 @@
 
 ### [4월 1째주, 1주차] : HTML, CSS, 웹
 
+- 24.04.07 [CS] [캐시 메모리(Cache Memory)](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-07.md)
+
 - 24.04.05
 - 24.04.04
 - 24.04.03
