@@ -4,6 +4,10 @@
 
 ## Today I Leanred List
 
+### [5월 5째주, 9주차] : Java, DB
+
+- 24.05.27 [JAVA] [Annotation과 리플렉션(Reflection)](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-27.md)
+
 ### [5월 4째주, 8주차] : Java
 
 - 24.05.26 [JAVA] [Race Condition과 Mutex/Semaphore](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-26.md)
