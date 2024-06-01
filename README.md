@@ -6,6 +6,8 @@
 
 ### [5월 5째주, 9주차] : Java, DB
 
+- 24.05.29 [JAVA] [추상 클래스](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-29.md)
+
 - 24.05.28 [JAVA] [싱글톤 패턴](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-28.md)
 
 - 24.05.27 [JAVA] [Annotation과 리플렉션(Reflection)](https://github.com/yoouung/TIL-KCS/blob/main/May/2024-05-27.md)
