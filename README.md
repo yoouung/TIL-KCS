@@ -86,5 +86,6 @@
 - 24.04.07 [CS] [캐시 메모리(Cache Memory)](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-07.md)
 
 - 24.04.05
-- 24.04.04
+- 24.04.04 [WEB] [CSR, SSR, SSG](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-04.md)
+
 - 24.04.03 [WEB] [웹 서버와 WAS](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-03.md)
