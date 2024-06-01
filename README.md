@@ -87,5 +87,4 @@
 
 - 24.04.05
 - 24.04.04
-- 24.04.03
-- 24.04.02
+- 24.04.03 [WEB] [웹 서버와 WAS](https://github.com/yoouung/TIL-KCS/blob/main/April/2024-04-03.md)
