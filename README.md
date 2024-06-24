@@ -4,7 +4,9 @@
 
 ## Today I Leanred List
 
-### [6월 1째주, 10주차] : Java, DB
+### [6월 1째주, 10주차] : Spring
+
+-   24.06.05 [Spring] [IoC, DI](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-05.md)
 
 -   24.06.04 [Spring] [스프링 프레임워크](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-04.md)
 
