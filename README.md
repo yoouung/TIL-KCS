@@ -6,6 +6,8 @@
 
 ### [6월 1째주, 10주차] : Spring
 
+-   24.06.07 [Spring Boot] [빈 라이프사이클](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-07.md)
+
 -   24.06.06 [Spring] [스프링과 스프링 부트의 차이](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-06.md)
 
 -   24.06.05 [Spring] [IoC, DI](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-05.md)
