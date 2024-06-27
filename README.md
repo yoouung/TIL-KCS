@@ -10,6 +10,8 @@
 
 ### [6월 1째주, 10주차] : Spring
 
+-   24.06.09 [Spring Boot] [빈 스코프](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-09.md)
+
 -   24.06.08 [Spring Boot] [빈 생명주기 콜백](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-08.md)
 
 -   24.06.07 [Spring Boot] [빈 라이프사이클](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-07.md)
