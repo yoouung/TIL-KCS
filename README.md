@@ -4,6 +4,10 @@
 
 ## Today I Leanred List
 
+### [6월 4째주, 12주차] : Linux
+
+-   24.06.26 [Linux] [기본 명령어](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-06.md)
+
 ### [6월 1째주, 10주차] : Spring
 
 -   24.06.07 [Spring Boot] [빈 라이프사이클](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-07.md)
