@@ -6,27 +6,27 @@
 
 ### [6월 4째주, 12주차] : Linux
 
--   24.06.26 [Linux] [기본 명령어](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-06.md)
+-   24.06.26 [Linux] [기본 명령어](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-26.md)
 
 ### [6월 2째주, 11주차] : Spring Boot
 
--   24.06.10 [Spring Boot] [JPA](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-10.md)
+-   24.06.10 [Spring Boot] [JPA](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-10.md)
 
 ### [6월 1째주, 10주차] : Spring
 
--   24.06.09 [Spring Boot] [빈 스코프](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-09.md)
+-   24.06.09 [Spring Boot] [빈 스코프](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-09.md)
 
--   24.06.08 [Spring Boot] [빈 생명주기 콜백](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-08.md)
+-   24.06.08 [Spring Boot] [빈 생명주기 콜백](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-08.md)
 
--   24.06.07 [Spring Boot] [빈 라이프사이클](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-07.md)
+-   24.06.07 [Spring Boot] [빈 라이프사이클](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-07.md)
 
--   24.06.06 [Spring] [스프링과 스프링 부트의 차이](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-06.md)
+-   24.06.06 [Spring] [스프링과 스프링 부트의 차이](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-06.md)
 
--   24.06.05 [Spring] [IoC, DI](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-05.md)
+-   24.06.05 [Spring] [IoC, DI](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-05.md)
 
--   24.06.04 [Spring] [스프링 프레임워크](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-04.md)
+-   24.06.04 [Spring] [스프링 프레임워크](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-04.md)
 
--   24.06.03 [WEB] [모듈 번들러](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-03.md)
+-   24.06.03 [WEB] [모듈 번들러](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-03.md)
 
 ### [5월 5째주, 9주차] : Java, DB
 
