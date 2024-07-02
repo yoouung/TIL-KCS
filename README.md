@@ -8,6 +8,10 @@
 
 -   24.06.26 [Linux] [기본 명령어](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-06.md)
 
+### [6월 2째주, 11주차] : Spring Boot
+
+-   24.06.10 [Spring Boot] [JPA](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-10.md)
+
 ### [6월 1째주, 10주차] : Spring
 
 -   24.06.09 [Spring Boot] [빈 스코프](https://github.com/yoouung/TIL-KCS/blob/main/5.%20May/2024-06-09.md)
