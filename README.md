@@ -12,6 +12,8 @@
 
 ### [6월 2째주, 11주차] : Spring Boot
 
+-   24.06.15 [Spring Boot] [ORM](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-15.md)
+
 -   24.06.14 [Spring Boot] [JPA, Hibernate, JDBC](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-14.md)
 
 -   24.06.12 [Spring] [팩토리 메서드 패턴](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-12.md)
