@@ -4,7 +4,9 @@
 
 ## Today I Leanred List
 
-### [6월 4째주, 12주차] : Linux
+### [6월 4째주, 12주차] : Linux, Deployment
+
+-   24.06.28 [Deployment] [AWS Beanstalk vs Kubernetes](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-28.md)
 
 -   24.06.26 [Linux] [기본 명령어](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-26.md)
 
