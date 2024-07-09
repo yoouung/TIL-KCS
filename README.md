@@ -10,6 +10,8 @@
 
 ### [6월 2째주, 11주차] : Spring Boot
 
+-   24.06.12 [Spring] [팩토리 메서드 패턴](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-12.md)
+
 -   24.06.11 [Spring Boot] [JPA 매핑](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-11.md)
 
 -   24.06.10 [Spring Boot] [JPA](https://github.com/yoouung/TIL-KCS/blob/main/6.%20June/2024-06-10.md)
